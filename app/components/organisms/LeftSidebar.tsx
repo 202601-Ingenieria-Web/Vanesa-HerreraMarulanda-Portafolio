@@ -66,7 +66,7 @@ export default function LeftSidebar() {
             className="text-sm mt-1"
             style={{ color: 'var(--color-text-muted)' }}
           >
-            Estudiante Ingeniera de Sistemas
+            Estudiante Ingeniería de Sistemas
           </p>
         </div>
 

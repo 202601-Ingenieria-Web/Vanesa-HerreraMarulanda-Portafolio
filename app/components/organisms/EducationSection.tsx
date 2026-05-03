@@ -25,7 +25,7 @@ const educationItems = [
   {
     institution: 'Institución Educativa Escuela Normal Superior "Claudina Múnera")',
     dateRange: '2017 – 2018',
-    degree: 'Bachiler Académico con Profundización en Pedagogía',
+    degree: 'Bachiller Académico con Profundización en Pedagogía',
     description:
       'La Escuela Normal Superior "Claudina Múnera" brinda una formación integral orientada al desarrollo académico, humano y pedagógico de los estudiantes. El programa fortalece competencias en educación, liderazgo y formación docente, promoviendo valores, pensamiento crítico y compromiso con la transformación social y educativa.',
   },

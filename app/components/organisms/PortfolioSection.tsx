@@ -15,7 +15,7 @@ const projects = [
       'Este es el portafolio personal desarrollado como proyecto evaluativo del curso de Ingeniería Web. ' +
       'Implementa Atomic Design, rutas de Next.js, estilos con TailwindCSS y despliegue en Vercel.',
     technologies: ['Next.js', 'TypeScript', 'TailwindCSS', 'React'],
-    links: [{ label: 'GitHub', url: 'https://github.com/tuusuario/portafolio' }],
+    links: [{ label: 'GitHub', url: 'https://github.com/202601-Ingenieria-Web/Vanesa-HerreraMarulanda-Portafolio/tree/main' }],
   },
   {
     title: 'Próximamente',
